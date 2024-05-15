@@ -1,0 +1,6 @@
+x = int(input ("Determina el valor de X: "))
+y = int(input ("Determina el valor de Y: "))
+print ("La suma de X més Y es", x+y)
+print ("La resta de X més Y es", x-y)
+print ("La multiplicació de X més Y es", x*y)
+print ("La divisió de X més Y es", x/y)
